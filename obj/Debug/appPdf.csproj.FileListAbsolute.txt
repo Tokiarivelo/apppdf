@@ -1,0 +1,16 @@
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\bin\Debug\appPdf.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\bin\Debug\appPdf.exe
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\bin\Debug\appPdf.pdb
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\bin\Debug\SautinSoft.PdfFocus.dll
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\bin\Debug\SautinSoft.PdfFocus.xml
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\obj\Debug\appPdf.csprojResolveAssemblyReference.cache
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\obj\Debug\MainWindow.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\obj\Debug\App.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\obj\Debug\appPdf_MarkupCompile.cache
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\obj\Debug\appPdf_MarkupCompile.lref
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\obj\Debug\MainWindow.baml
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\obj\Debug\appPdf.g.resources
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\obj\Debug\appPdf.Properties.Resources.resources
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\obj\Debug\appPdf.csproj.GenerateResource.Cache
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\obj\Debug\appPdf.exe
+c:\users\toky\documents\visual studio 2015\Projects\appPdf\appPdf\obj\Debug\appPdf.pdb
